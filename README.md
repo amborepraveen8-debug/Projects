@@ -1,4 +1,6 @@
 # Assignments
 
 
-This repository contains all the data science algorithms 
+
+This repository contains all the data science algorithm examples.
+
